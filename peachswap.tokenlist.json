@@ -1,0 +1,24 @@
+{
+  "name": "PeachSwap",
+  "logoURI": "https://raw.githubusercontent.com/peachswap/token-list/master/assets/peachswap-interface.svg",
+  "keywords": [
+    "peachswap",
+    "defi"
+  ],
+  "timestamp": "2020-09-05T12:37:57.000+00:00",
+  "tokens": [
+    {
+      "chainId": 3,
+      "address": "0xfdf49af202aafc9cf85013fad9a0fab678188dc6",
+      "name": "PeachSwap Token",
+      "symbol": "TAO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/peachswap/token-list/master/assets/asset_TAO.svg"
+    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  }
+}
