@@ -16,20 +16,20 @@
       "logoURI": "https://raw.githubusercontent.com/peachswap/token-list/master/assets/asset_TAO.svg"
     },
     {
-      "name": "Wrapped Ether",
+      "chainId": 3,
       "address": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
+      "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
-      "chainId": 3,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/peachswap/token-list/master/assets/asset_TAO.svg"
     },
     {
-      "name": "Dai Stablecoin",
+      "chainId": 3,
       "address": "0xaD6D458402F60fD3Bd25163575031ACDce07538D",
+      "name": "Dai Stablecoin",
       "symbol": "DAI",
       "decimals": 18,
-      "chainId": 3,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xaD6D458402F60fD3Bd25163575031ACDce07538D/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/peachswap/token-list/master/assets/asset_TAO.svg"
     }
   ],
   "version": {
