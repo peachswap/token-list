@@ -13,7 +13,7 @@
       "name": "PeachSwap Token",
       "symbol": "TAO",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/peachswap/token-list/master/assets/asset_TAO.svg"
+      "logoURI": "https://raw.githubusercontent.com/peachswap/token-list/master/assets/asset_tao.svg"
     },
     {
       "chainId": 3,
@@ -21,7 +21,7 @@
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/peachswap/token-list/master/assets/asset_TAO.svg"
+      "logoURI": "https://raw.githubusercontent.com/peachswap/token-list/master/assets/asset_weth.png"
     },
     {
       "chainId": 3,
@@ -29,7 +29,7 @@
       "name": "Dai Stablecoin",
       "symbol": "DAI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/peachswap/token-list/master/assets/asset_TAO.svg"
+      "logoURI": "https://raw.githubusercontent.com/peachswap/token-list/master/assets/asset_dai.png"
     }
   ],
   "version": {
