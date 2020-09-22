@@ -8,6 +8,14 @@
   "timestamp": "2020-09-05T12:37:57.000+00:00",
   "tokens": [
     {
+      "chainId": 1,
+      "address": "0x812c6770926956e88bdaa40a9ed6ee233832c4df",
+      "name": "PeachSwap Token",
+      "symbol": "TAO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/peachswap/token-list/master/assets/asset_tao.svg"
+    },
+    {
       "chainId": 3,
       "address": "0xfdf49af202aafc9cf85013fad9a0fab678188dc6",
       "name": "PeachSwap Token",
